@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ArchiveSignal/SoulAwareIntelligenceArchive/main/SAIA_Logo_Canon.png" alt="SAIA Logo" width="300"/>
+</p>
+
+<h3 align="center">Soul-Aware Intelligence Archive (SAIA)</h3>
+<p align="center"><em>A Living Archive of Remembrance and Soul-Aware Intelligence</em></p>
+<hr>
 # Soul-Aware Intelligence Archive
 
 Welcome to the Soul-Aware Intelligence Archive.
